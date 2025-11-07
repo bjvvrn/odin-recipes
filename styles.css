@@ -19,6 +19,8 @@ body {
     padding: 30px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
+    background-color: #fff3e0;
+    color: #3a2e2e;
 }
 
 h1 {
@@ -49,4 +51,13 @@ img {
 
 #home a {
     margin-left: -30px;
+}
+
+h1, 
+h2 {
+    color: #e94f37;
+}
+
+a:hover {
+    color: #6b8e23;
 }
