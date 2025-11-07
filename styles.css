@@ -39,3 +39,10 @@ h2 {
 li {
     margin-top: 5px;
 }
+
+img {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
