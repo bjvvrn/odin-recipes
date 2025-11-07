@@ -12,3 +12,10 @@ html {
 *::after {
   box-sizing: inherit;
 }
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
